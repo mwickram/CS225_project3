@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\mimad\documents\maheshimaduwa\cmp_sci_2250\projects\project3\main\main\main.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimad\documents\maheshimaduwa\cmp_sci_2250\projects\project3\main\main\main.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimad\documents\maheshimaduwa\cmp_sci_2250\projects\project3\main\main\main.cpp(294): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\mimad\documents\maheshimaduwa\cmp_sci_2250\projects\project3\main\main\main.cpp(294): warning C4309: '=': truncation of constant value
+  Horse.cpp
+c:\users\mimad\documents\maheshimaduwa\cmp_sci_2250\projects\project3\main\main\horse.cpp(51): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  main.vcxproj -> C:\Users\mimad\Documents\MaheshImaduwa\CMP_SCI_2250\Projects\project3\main\Debug\main.exe
+  main.vcxproj -> C:\Users\mimad\Documents\MaheshImaduwa\CMP_SCI_2250\Projects\project3\main\Debug\main.pdb (Partial PDB)
